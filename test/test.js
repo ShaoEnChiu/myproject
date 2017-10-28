@@ -1,5 +1,5 @@
 const assert = require('assert');
-it('應該要回傳1', function()
+it('應該要回傳11', function()
 {
-    assert.equal(1, [1,2,3].indexOf(4));
+    assert.equal(11, [1,2,3].indexOf(4));
 })
